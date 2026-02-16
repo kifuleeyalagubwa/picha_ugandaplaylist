@@ -1,71 +1,24 @@
 #EXTM3U
 
-# --- UGANDA ENTERTAINMENT & NEWS ---
+# --- UGANDA ---
 #EXTINF:-1 tvg-id="NTV.ug" group-title="Uganda", NTV Uganda
-#EXTVLCOPT:http-referrer=https://ntv.co.ug/
 https://linear-413.vrtzads.com/t/v2/ntv-uganda/index.m3u8
 
 #EXTINF:-1 tvg-id="NBS.ug" group-title="Uganda", NBS TV
-#EXTVLCOPT:http-referrer=https://nbs.ug/
 https://stream.visiongroup.co.ug/nbs/index.m3u8
 
 #EXTINF:-1 tvg-id="Bukedde1.ug" group-title="Uganda", Bukedde TV 1
 https://stream.visiongroup.co.ug/bukedde1/index.m3u8
 
-#EXTINF:-1 tvg-id="Bukedde2.ug" group-title="Uganda", Bukedde TV 2
-https://stream.visiongroup.co.ug/bukedde2/index.m3u8
-
-#EXTINF:-1 tvg-id="TVWest.ug" group-title="Uganda", TV West
-https://stream.visiongroup.co.ug/tvwest/index.m3u8
-
 #EXTINF:-1 tvg-id="KSTV.ug" group-title="Uganda", KSTV Uganda
 https://kstv48.fra1.cdn.digitaloceanspaces.com/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-id="DreamTV.ug" group-title="Uganda", Dream TV
-https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="BTV.ug" group-title="Uganda", BTV
-https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
-
-# --- INTERNATIONAL SPORTS (FREE) ---
-#EXTINF:-1 tvg-id="FIFA" group-title="Sports", FIFA+ Live
-https://fifaplus-fifaplus-1-gb.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RedBull" group-title="Sports", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/flodotcom/master.m3u8
-
-#EXTINF:-1 tvg-id="FuboSports" group-title="Sports", Fubo Sports Network
-https://fubosports-fubo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CombatGo" group-title="Sports", Combat Go (MMA)
-https://c-go-samsung-au.amagi.tv/playlist.m3u8
-
-# --- INTERNATIONAL NEWS (STABLE) ---
+# --- INTERNATIONAL ---
 #EXTINF:-1 tvg-id="BBCWorld" group-title="News", BBC News HD
 https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeera" group-title="News", Al Jazeera English
 https://live-hls-web-aje.akamaized.net/v1/master/3830206626001/6067716187001/ALL_AJE_ENG_High.m3u8
 
-#EXTINF:-1 tvg-id="SkyNews" group-title="News", Sky News International
-https://skynews-skynews-skynews-original-skynews.amagi.tv/index.m3u8
-
-#EXTINF:-1 tvg-id="ABCNews" group-title="News", ABC News Live
-https://content.uplynk.com/channel/3324f2467ee143d3bca71bd57863e076.m3u8
-
-# --- GLOBAL RELIGION ---
-#EXTINF:-1 tvg-id="EWTN" group-title="Religion", EWTN Catholic
-https://ewtn-ewtn-global-english-1-ca.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Daystar" group-title="Religion", Daystar TV
-https://daystar-daystar-1-us.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GodTV" group-title="Religion", GOD TV
-https://godtv-godtv-1-us.wurl.tv/playlist.m3u8
-
-# --- MOVIES & MUSIC ---
-#EXTINF:-1 tvg-id="TraceAfrica" group-title="Music", Trace Africa
-https://trace-traceafrica-1-us.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RakutenMovies" group-title="Movies", Rakuten Action
-https://rakuten-actionmovies-1-uk.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBull" group-title="Sports", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/flodotcom/master.m3u8
