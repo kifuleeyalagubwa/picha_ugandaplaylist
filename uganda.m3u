@@ -1,24 +1,7 @@
-#EXTM3U
-
-# --- UGANDA ---
-#EXTINF:-1 tvg-id="NTV.ug" group-title="Uganda", NTV Uganda
+#EXTINF:-1 tvg-id="NTV.ug" tvg-logo="https://ntv.co.ug/logo.png" group-title="Uganda",NTV Uganda
+#EXTVLCOPT:http-referrer=https://ntv.co.ug
 https://linear-413.vrtzads.com/t/v2/ntv-uganda/index.m3u8
 
-#EXTINF:-1 tvg-id="NBS.ug" group-title="Uganda", NBS TV
-https://stream.visiongroup.co.ug/nbs/index.m3u8
-
-#EXTINF:-1 tvg-id="Bukedde1.ug" group-title="Uganda", Bukedde TV 1
-https://stream.visiongroup.co.ug/bukedde1/index.m3u8
-
-#EXTINF:-1 tvg-id="KSTV.ug" group-title="Uganda", KSTV Uganda
+#EXTINF:-1 tvg-id="KSTV.ug" tvg-logo="https://kstvuganda.com/logo.png" group-title="Uganda",KSTV Uganda
+#EXTVLCOPT:http-referrer=https://www.kstvuganda.com
 https://kstv48.fra1.cdn.digitaloceanspaces.com/hls/0/stream.m3u8
-
-# --- INTERNATIONAL ---
-#EXTINF:-1 tvg-id="BBCWorld" group-title="News", BBC News HD
-https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-
-#EXTINF:-1 tvg-id="AlJazeera" group-title="News", Al Jazeera English
-https://live-hls-web-aje.akamaized.net/v1/master/3830206626001/6067716187001/ALL_AJE_ENG_High.m3u8
-
-#EXTINF:-1 tvg-id="RedBull" group-title="Sports", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/flodotcom/master.m3u8
