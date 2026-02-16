@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NBS.ug" tvg-logo="https://example.com/logos/nbs.png" group-title="News",NBS TV
+https://nbs-live.dacast.com/nbs/stream_360p.m3u8
+
+#EXTINF:-1 tvg-id="NBS.ug" tvg-logo="https://example.com/logos/nbs-sport.png" group-title="Sports",NBS Sport
+https://nbs-live.dacast.com/nbs_sport/stream_360p.m3u8
+
+#EXTINF:-1 tvg-id="Bukedde1.ug" tvg-logo="https://example.com/logos/bukedde1.png" group-title="Entertainment",Bukedde TV 1
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="Bukedde2.ug" tvg-logo="https://example.com/logos/bukedde2.png" group-title="Entertainment",Bukedde TV 2
+https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="UBC.ug" tvg-logo="https://example.com/logos/ubc.png" group-title="Public",UBC TV
+https://ubctv.edge.channel.etv.ug/ubctv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="UBCStar.ug" tvg-logo="https://example.com/logos/ubc-star.png" group-title="Entertainment",UBC Star TV
+https://ubctv.edge.channel.etv.ug/ubcstar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="TopTV.ug" tvg-logo="https://example.com/logos/toptv.png" group-title="Entertainment",Top TV
+https://top-tv.digitalmonk.ug/toptv/stream.m3u8
+
+#EXTINF:-1 tvg-id="SaltTV.ug" tvg-logo="https://example.com/logos/salttv.png" group-title="Religious",Salt TV
+https://live.salttelevision.com/app/stream/abr.m3u8
+
+#EXTINF:-1 tvg-id="SpiritTV.ug" tvg-logo="https://example.com/logos/spirittv.png" group-title="Religious",Spirit TV
+https://tv.tuhlprintltd.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="MiracleTV.ug" tvg-logo="https://example.com/logos/miracletv.png" group-title="Religious",Miracle TV
+https://stream.hydeinnovations.com/miracletv/index.m3u8
+
+#EXTINF:-1 tvg-id="LightTV.ug" tvg-logo="https://example.com/logos/lighttv.png" group-title="Religious",Light TV
+https://stream.hydeinnovations.com/lighttv/index.m3u8
+
+#EXTINF:-1 tvg-id="ArkTV.ug" tvg-logo="https://example.com/logos/arktv.png" group-title="Religious",Ark TV
+https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="TVWest.ug" tvg-logo="https://example.com/logos/tvwest.png" group-title="Regional",TV West
+https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="WanLuo.ug" tvg-logo="https://example.com/logos/wanluo.png" group-title="Regional",Wan Luo TV
+https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="DreamTV.ug" tvg-logo="https://example.com/logos/dreamtv.png" group-title="Entertainment",Dream TV
+https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="BTV.ug" tvg-logo="https://example.com/logos/btv.png" group-title="Entertainment",BTV
+https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="KSTV.ug" tvg-logo="https://example.com/logos/kstv.png" group-title="Entertainment",KSTV Uganda
+https://kstv48.fra1.cdn.digitaloceanspaces.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="Gugudde.ug" tvg-logo="https://example.com/logos/gugudde.png" group-title="Entertainment",Gugudde TV
+https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="COU.ug" tvg-logo="https://example.com/logos/cou.png" group-title="Religious",COU Family Television
+#EXTVLCOPT:http-referrer=https://www.coufamilytv.com/
+https://coufamilytv.com.ug/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="Record.ug" tvg-logo="https://example.com/logos/record.png" group-title="Music",Record TV Uganda
+https://stream.hydeinnovations.com/recordtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Kingdom.ug" tvg-logo="https://example.com/logos/kingdom.png" group-title="Religious",Kingdom TV
+https://stream.hydeinnovations.com/kingdomtv/index.m3u8
+
+#EXTINF:-1 tvg-id="Mountain.ug" tvg-logo="https://example.com/logos/mountain.png" group-title="Religious",Mountain of Fire TV
+https://stream.hydeinnovations.com/mfm/index.m3u8
+
+#EXTINF:-1 tvg-id="Pearl.ug" tvg-logo="https://example.com/logos/pearl.png" group-title="News",Pearl News
+https://stream.hydeinnovations.com/pearlnews/index.m3u8
+
+#EXTINF:-1 tvg-id="Urban.ug" tvg-logo="https://example.com/logos/urban.png" group-title="Music",Urban TV
+https://stream.hydeinnovations.com/urbantv/index.m3u8
+
+#EXTINF:-1 tvg-id="Delta.ug" tvg-logo="https://example.com/logos/delta.png" group-title="News",Delta TV
+https://stream.hydeinnovations.com/deltatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Rhema.ug" tvg-logo="https://example.com/logos/rhema.png" group-title="Religious",Rhema TV
+https://stream.hydeinnovations.com/rhematv/index.m3u8
+
+#EXTINF:-1 tvg-id="Grace.ug" tvg-logo="https://example.com/logos/grace.png" group-title="Religious",Grace TV
+https://stream.hydeinnovations.com/gracetv/index.m3u8
+
+#EXTINF:-1 tvg-id="Channel44.ug" tvg-logo="https://example.com/logos/channel44.png" group-title="Religious",Channel 44 TV
+https://stream.hydeinnovations.com/channel44/index.m3u8
+
+#EXTINF:-1 tvg-id="Family.ug" tvg-logo="https://example.com/logos/family.png" group-title="Religious",Family TV
+https://stream.hydeinnovations.com/familytv/index.m3u8
+
+#EXTINF:-1 tvg-id="Mityana.ug" tvg-logo="https://example.com/logos/mityana.png" group-title="Regional",Mityana TV
+https://stream.hydeinnovations.com/mityanatv/index.m3u8
+
+#EXTINF:-1 tvg-id="Kamuli.ug" tvg-logo="https://example.com/logos/kamuli.png" group-title="Regional",Kamuli TV
+https://stream.hydeinnovations.com/kamulitv/index.m3u8
+
+#EXTINF:-1 tvg-id="Masaka.ug" tvg-logo="https://example.com/logos/masaka.png" group-title="Regional",Masaka TV
+https://stream.hydeinnovations.com/masakatv/index.m3u8
