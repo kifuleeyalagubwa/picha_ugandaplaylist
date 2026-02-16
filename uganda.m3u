@@ -1,7 +1,47 @@
-#EXTINF:-1 tvg-id="NTV.ug" tvg-logo="https://ntv.co.ug/logo.png" group-title="Uganda",NTV Uganda
-#EXTVLCOPT:http-referrer=https://ntv.co.ug
-https://linear-413.vrtzads.com/t/v2/ntv-uganda/index.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="BukeddeTV1.ug" group-title="Uganda",Bukedde TV 1
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
 
-#EXTINF:-1 tvg-id="KSTV.ug" tvg-logo="https://kstvuganda.com/logo.png" group-title="Uganda",KSTV Uganda
-#EXTVLCOPT:http-referrer=https://www.kstvuganda.com
+#EXTINF:-1 tvg-id="BukeddeTV2.ug" group-title="Uganda",Bukedde TV 2
+https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="ArkTV.ug" group-title="Religious",Ark TV
+https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-id="TVWest.ug" group-title="Uganda",TV West
+https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="WanLuoTV.ug" group-title="Uganda",Wan Luo TV
+https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
+
+#EXTINF:-1 tvg-id="KSTVUganda.ug" group-title="Uganda",KSTV Uganda
 https://kstv48.fra1.cdn.digitaloceanspaces.com/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="SaltTV.ug" group-title="Religious",Salt TV
+https://live.salttelevision.com/app/stream/abr.m3u8
+
+#EXTINF:-1 tvg-id="SpiritTV.ug" group-title="Religious",Spirit TV
+https://tv.tuhlprintltd.com/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="DreamTV.ug" group-title="Entertainment",Dream TV
+https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="BTV.ug" group-title="Entertainment",BTV
+https://streamfi-alphadgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="GuguddeTV.ug" group-title="Entertainment",Gugudde TV
+https://jk3lzqq4lw79-hls-live.5centscdn.com/gugudde/c9a1fdac6e082dd89e7173244f34d7b3.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-id="COU.ug" group-title="Religious",COU Family Television
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_2c12d7a053f511ef9a978b0191f4a826
+https://stream.castr.com/66b2205a464da535308e57e1/live_2c12d7a053f511ef9a978b0191f4a826/index.fmp4.m3u8
+
+# --- INTERNATIONAL (These should work) ---
+#EXTINF:-1 tvg-id="BBCWorld" group-title="News",BBC News
+https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeera" group-title="News",Al Jazeera English
+https://live-hls-web-aje.akamaized.net/v1/master/3830206626001/6067716187001/ALL_AJE_ENG_High.m3u8
+
+#EXTINF:-1 tvg-id="RedBullTV" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/flodotcom/master.m3u8
